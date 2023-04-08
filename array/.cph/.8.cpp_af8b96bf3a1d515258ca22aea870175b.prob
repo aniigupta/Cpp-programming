@@ -1,0 +1,1 @@
+{"name":"Local: 8","url":"/Users/aniketgupta/Documents/Programming/cpp/array/8.cpp","tests":[{"id":1680879256963,"input":"3\n3\n1 2 3\n4\n1 4 6 7 \n2 \n3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aniketgupta/Documents/Programming/cpp/array/8.cpp","group":"local","local":true}
