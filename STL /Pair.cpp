@@ -1,6 +1,6 @@
 #include <iostream>
 #include<bits/stdc++.h>
-//#include<array>
+#include<array>
 using namespace std;
 int main()
 {
