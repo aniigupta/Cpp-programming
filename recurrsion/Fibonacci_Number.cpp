@@ -12,6 +12,8 @@ int fib(int n)
 int main()
 {
     // int n; cin>>n;
-    fib(8);
+    int a = fib(8);
+	cout<<a<<endl;
+	
     return 0;
 }
